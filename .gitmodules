@@ -7,3 +7,9 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = git@github.com:redmoart23/products-ms.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = git@github.com:redmoart23/payments-ms.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = git@github.com:redmoart23/auth-ms.git
